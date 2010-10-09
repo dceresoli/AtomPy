@@ -1,0 +1,10 @@
+Compile and test in-place:
+
+    python setup.py build_ext -i
+
+
+Example usage:
+
+    ./run_atom.py --config '[He] 2s2 2p2' -o C.data  C
+    ./plot_atom.py C.data 
+

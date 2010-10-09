@@ -1,0 +1,17 @@
+LICENSE
+README
+plot_atom.py
+run_atom.py
+setup.py
+Atomic/__init__.py
+Atomic/atom.py
+Atomic/hydrogen_wfc.py
+Atomic/periodic_table.py
+Atomic/radial_grid.py
+Atomic/setup.py
+Atomic/shoot.py
+Atomic/solve.py
+Atomic/xc.py
+Atomic/clib/__init__.py
+Atomic/clib/setup.py
+Atomic/clib/shoot.pyx

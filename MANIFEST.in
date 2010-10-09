@@ -1,0 +1,4 @@
+include README LICENSE run_atom.py plot_atom.py
+recursive-include Atomic *.py *.pyx
+recursive-include Atomic/clib *.py *.pyx *.so *.dylib *.dll
+recursive-include Doc *
